@@ -1,6 +1,6 @@
 <h1>PyWeather</h1>
 <p>A simple python program which shows the weather condition.</p>
-
+<br>
 <ul>
   <li>Detects your current city and shows the weather condition of that city.</li>
   <li>Shows you weather condition of any city you want.</li>
