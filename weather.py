@@ -3,7 +3,6 @@ import json
 import time
 
 print("Please wait while we load all city's database...")
-
 time.sleep(2)
 
 def other():
