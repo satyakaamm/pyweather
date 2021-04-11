@@ -1,3 +1,4 @@
+<h2>**The project is currently not working as the Accuweather added new conditions to the use of public API. The dev is working to fix the issue and insha'Allah, the project will be available soon.</h2>
 <h1>PyWeather</h1>
 <p>A simple python program which shows the weather condition.</p>
 <br>
